@@ -4,7 +4,7 @@ public class Game {
         System.out.println("Welcome to the Countries game.");
         Console console = System.console();
         String answer = console.readLine("Which continent does Sweden belong to? ");
-        String continent= "Asia";
+        String continent= "Europe";
         if (answer.equals(continent)) {
             System.out.println("Correct!");
         } else {
