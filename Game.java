@@ -59,6 +59,6 @@ public class Game {
 
     public static void printHelp() {
         System.out.println("Guess the continent");
-        System.out.println("Type 'exitt' to stop the game or 'help' to get this text.");
+        System.out.println("Type 'exit' to stop the game or 'help' to get this text.");
     }
 }
